@@ -1,7 +1,7 @@
 # tic-tac-toe
 <div sytle="display:flex; justify-content: space-between;">
   
-<img src="https://user-images.githubusercontent.com/58876947/171254390-568272e1-5c2e-44d1-8a8b-4e4dc148c2f1.png" sytle="width:45%;"/>
+<img src="https://user-images.githubusercontent.com/58876947/171254390-568272e1-5c2e-44d1-8a8b-4e4dc148c2f1.png" width="45%"/>
 
 <img src="https://user-images.githubusercontent.com/58876947/171254406-736bcc86-ad73-4e1c-8f7b-d7b1bf6d4dfc.png" sytle="width:45%;"/>
 
