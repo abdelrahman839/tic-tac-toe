@@ -1,5 +1,5 @@
 # tic-tac-toe
-<div sytle="display:flex; justify-content: flex-end; align-items:center;" >
+<div  >
   
 <img src="https://user-images.githubusercontent.com/58876947/171254390-568272e1-5c2e-44d1-8a8b-4e4dc148c2f1.png" width="45%"/>
 
